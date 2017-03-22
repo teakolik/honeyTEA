@@ -25,8 +25,8 @@ TOKEN="CLOUDFLAREPUBLICAPIKEYGIRILECEK"
 LINE_FILE="/etc/local/scripts/line.dat"
 BLACKLIST_FILE="/etc/local/scripts/blacklist.dat"
 
-## Apache Log Dosyanızın Lokasyonu ve Adı
-LOG_FILE="/var/log/nginx/domains/teakolik.com.log"
+## Apache Access Log Dosyanızın Lokasyonu ve Adı
+LOG_FILE="/var/log/httpd/access.log"
 
 ###
 ### AYARLAR BURADA BİTİYOR! 
