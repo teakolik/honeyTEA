@@ -14,13 +14,15 @@ Config.txt içerisindeki Honeypotlar Wordpress için eklenmiştir. Bu dosyaları
 
 
 
-# Geniş anlatım için...
+### Geniş anlatım için...
 
 Geniş Anlatım: http://www.teakolik.com/honeytea-ile-sazan-avlayalim-mi/
 
 Twitter: https://twitter.com/TEAkolik
 
-# HoneyTEA Nasıl Çalışıyor?
+
+# HoneyTEA Nasıl Çalışıyor?
+
 Sunucu loglarınızı okuyarak web sayfamıza gelen istekleri inceliyor. Sitenize kötü niyetli bir istek gelirse (teakolik.com/wp-config.php.bak gibi) bu isteği tespit ediyor.
 
 honeyTEA log kayıtlarını okurken öncelikle bu istekler arasından kötü niyetli olanları tespit etmesi lazım. Bunun için config.txt dosyasını kullandım. Script çalışırken
