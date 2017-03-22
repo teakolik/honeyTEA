@@ -1,0 +1,11 @@
+/wp-config.txt
+/wp-config.php
+/wp-config.bak
+/wp-config.php-bak
+/wp-db.php
+/api/xmlrpc/
+/admin/
+/administrator/
+/phpmyadmin/
+/phpMyAdmin/
+/config-sample.php/
