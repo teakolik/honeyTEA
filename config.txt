@@ -9,3 +9,4 @@
 /phpmyadmin/
 /phpMyAdmin/
 /config-sample.php
+/wp-config-sample.php
