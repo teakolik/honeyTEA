@@ -8,4 +8,4 @@
 /administrator/
 /phpmyadmin/
 /phpMyAdmin/
-/config-sample.php/
+/config-sample.php
