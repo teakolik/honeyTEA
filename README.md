@@ -12,3 +12,6 @@ Centos işletim sistemine göre hazırlanmıştır. Farklı OS'lerde kodları mo
 ### CMS
 Config.txt içerisindeki Honeypotlar Wordpress için eklenmiştir. Bu dosyaları Joomla veya Drupal'a göre de düzenleyebilirsiniz.
 
+# Geniş anlatım için...
+http://www.teakolik.com 
+https://twitter.com/TEAkolik
