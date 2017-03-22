@@ -13,5 +13,7 @@ Centos işletim sistemine göre hazırlanmıştır. Farklı OS'lerde kodları mo
 Config.txt içerisindeki Honeypotlar Wordpress için eklenmiştir. Bu dosyaları Joomla veya Drupal'a göre de düzenleyebilirsiniz.
 
 # Geniş anlatım için...
-http://www.teakolik.com 
-https://twitter.com/TEAkolik
+
+Geniş Anlatım: http://www.teakolik.com/honeytea-ile-sazan-avlayalim-mi/
+
+Twitter: https://twitter.com/TEAkolik
