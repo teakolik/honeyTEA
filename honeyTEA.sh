@@ -25,8 +25,10 @@ TOKEN="CLOUDFLAREPUBLICAPIKEYGIRILECEK"
 LINE_FILE="/etc/local/scripts/line.dat"
 BLACKLIST_FILE="/etc/local/scripts/blacklist.dat"
 
-## Apache Access Log Dosyanızın Lokasyonu ve Adı
-LOG_FILE="/var/log/httpd/access.log"
+## Apache veya Nginx Access Log Dosyanızın Lokasyonu ve Adı
+## Nginx visitor real ip: https://support.cloudflare.com/hc/en-us/articles/200170706-How-do-I-restore-original-visitor-IP-with-Nginx
+[[ -f /var/log/httpd/access.log ]] && LOG_FILE=/var/log/httpd/access.log
+[[ -f /var/log/nginx/access.log ]] && LOG_FILE=/var/log/nginx/access.log
 
 ###
 ### AYARLAR BURADA BİTİYOR! 
