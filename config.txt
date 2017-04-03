@@ -2,6 +2,7 @@
 /wp-config.php
 /wp-config.bak
 /wp-config.php-bak
+/wp-config.php~
 /wp-db.php
 /api/xmlrpc/
 /admin/
