@@ -12,3 +12,4 @@
 /config-sample.php
 /wp-config-sample.php
 downloadlink.php
+/.env
