@@ -1,4 +1,5 @@
-# honeyTEA Projesi
+# honeyTEA Projesi V2 Yayında!
+
 Cloudflare, Centos ve CMS birleşimi ile oluşturduğum bir HoneyPot sistemidir. 
 
 ## Sistem Gereksinimleri
@@ -12,14 +13,11 @@ Centos işletim sistemine göre hazırlanmıştır. Farklı OS'lerde kodları mo
 ### CMS
 Config.txt içerisindeki Honeypotlar Wordpress için eklenmiştir. Bu dosyaları Joomla veya Drupal'a göre de düzenleyebilirsiniz.
 
-
-
 ### Geniş anlatım için...
 
 Geniş Anlatım: http://www.teakolik.com/honeytea-ile-sazan-avlayalim-mi/
 
 Twitter: https://twitter.com/TEAkolik
-
 
 # HoneyTEA Nasıl Çalışıyor?
 
